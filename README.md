@@ -26,7 +26,7 @@ Use Maven to clean and build the project
 To run the application, I used my IDE (Right-clicking file then selecting RUN) but you can also run the application by using the Maven code below in your terminal.
 - mvn spring-boot:run
 
-You can access the applicaiton by opening your web browser and navigating to - http://localhost:8080/greeting
+You can access the application by opening your web browser and navigating to - http://localhost:8080/greeting
 
 I tested the application by using Postman.
 - Open Postman.
